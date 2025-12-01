@@ -1,1 +1,1 @@
-# odin-recipes
+This will be my first ever project as a burgeoning programmer. It is meant to test my knowledge of getting started with a project, which includes creating a Repo on Github, cloning it my machine and utilizing basic html commands, etc.
